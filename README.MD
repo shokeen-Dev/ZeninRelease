@@ -1,4 +1,3 @@
-Gemini said
 Zenin v1.0 — README
 
 Zenin is a high-performance, minimalist anime streaming platform built for a premium viewing experience. Designed with a local-first philosophy, Zenin prioritizes user privacy and fluid performance by keeping your data on your device while providing a seamless connection to your favorite content.
