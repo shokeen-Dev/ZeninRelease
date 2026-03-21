@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Downloads](https://img.shields.io/github/downloads/shokeen-Dev/ZeninRelease/total?style=for-the-badge&color=7928CA&logo=github)](https://github.com/shokeen-Dev/ZeninRelease/releases)
+[![Downloads](https://img.shields.io/github/downloads/shokeen-Dev/ZeninRelease/total?style=for-the-badge&color=7928CA&logo=github)](https://github.com/shokeen-Dev/ZeninRelease/releases/download/v1.0/Zenin_v1.0.apk)
 [![Latest Release](https://img.shields.io/github/v/release/shokeen-Dev/ZeninRelease?style=for-the-badge&color=0070f3)](https://github.com/vishu/ZeninApp/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://github.com/shokeen-Dev/ZeninRelease/releases)
 [![License](https://img.shields.io/badge/License-GPL%20v3.0-green?style=for-the-badge)](LICENSE)
